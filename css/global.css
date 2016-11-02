@@ -17,8 +17,10 @@ img {
     position:absolute;
     top:20px;
     right: 30px;
-    font-size: 18px;
-    color: white;
+    /* font-size changed by Jeff*/
+    font-size: 16px;
+    /*color changed by Jeff*/
+    color: aqua;
 }
 
 .huerotate {
